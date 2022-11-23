@@ -1,0 +1,31 @@
+body {
+  background: #E6E6FA
+}
+
+#frança {
+  width: 100%;
+}
+
+.titulo-principal {
+  padding-left: 20px
+}
+
+.titulo-centralizado{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+strong {
+  color: #9370DB;
+}
+
+.imagemfrança {
+  width: 35%;
+}
+
+.imagemmapa {
+  width: 35%
+}
